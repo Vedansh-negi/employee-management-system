@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "authentication.c"
+#include "employee_management.c"
+#include "payroll_calculation.c"
 // Declare functions from other files
 int login();
 void sign_up();
